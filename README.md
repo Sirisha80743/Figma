@@ -114,7 +114,8 @@ Figma
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/19216bfc-95c3-4b1f-b889-e09edff59fae)
+![image](https://github.com/user-attachments/assets/e54c54a4-022d-4bf7-a25c-804fdaf3c5f5)
+
 ![image](https://github.com/user-attachments/assets/6eb2560d-d0a9-4b9b-a3b9-2b915178eac6)
 ![image](https://github.com/user-attachments/assets/8798e47d-6598-48b4-8533-7f055fa0f419)
 ![image](https://github.com/user-attachments/assets/2d3a2b07-f764-46af-8f53-0fd5774c0eba)
